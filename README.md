@@ -1,6 +1,8 @@
 ### Hola 👋, Mi nombre es **Emanuel Zarazaga**
 #### Soy FrontEnd Developer 
-Front End Developer.
+
+![Soy FrontEnd Developer ](https://github.com/zurdozarazaga/images/blob/main/portadaJS.jpg)
+
 ⚛️ He trabajado en proyectos con librerías React js apoyándome en los React Hooks.
 
 🧑‍💻 He implementado patrones de arquitectura Redux derivada de flux.
