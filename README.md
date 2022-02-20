@@ -6,13 +6,13 @@
 ⚛️ He trabajado en proyectos con librerías React js apoyándome en los React Hooks.
 
 🧑‍💻 He implementado patrones de arquitectura Redux derivada de flux.
-Conjuntamente con el Back End as a service Firebase.
+Consumo de APIs
 
-Maqueté sitios web con HTML y CSS. Trabajé con CSS Grid Layout y Responsive Design. También usé framework Bootstrap
+Maqueté sitios web con HTML y CSS. Trabajé con CSS Grid Layout y Responsive Design. También usé framework Bootstrap y TailwindCSS
 
 🚀 Además me capacito en la plataforma online Platzi. Para nunca parar de aprender.
 
-Hace 10 años que trabajo en Fuerza Aérea como Electrónico Aeronáutico. Conduzco, Planifico y realizo el mantenimiento aeronáutico.
+Hace 1 año que trabajo en Fuerza Aérea como Frontend Developer.
 
 ✉️ contacto: zurdozarazaga@gmail.com
 
